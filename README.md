@@ -1,5 +1,5 @@
 # MIMTools
-A list of usefull tools for Microsoft Identity Manager, the honor goes to the linked publishers of these tools.
+A list of useful tools for Microsoft Identity Manager, the honor goes to the linked publishers of these tools.
 
 ## MIMWAL
 Portal Workflow Activities
