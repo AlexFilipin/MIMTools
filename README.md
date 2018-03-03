@@ -40,3 +40,18 @@ https://github.com/lithnet/resourcemanagement-webservice
 MIM Best Practice Checker
 
 http://www.ingallsdesigns.com/downloads.html
+
+## psma
+Powershell Management Agent for FIM2010 and MIM2016 from Søren Granfeldt
+
+https://github.com/sorengranfeldt/psma
+
+## Generic Web Service connector
+The Web Service connector integrates identities through Web Service operations with Microsoft Identity Manager (MIM) 2016 SP1
+
+https://docs.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-ma-ws
+
+## Generic SQL Connector
+A generic SQL management agent for FIM/MIM
+
+https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-connector-genericsql
