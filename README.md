@@ -64,3 +64,8 @@ https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory
 A generic LDAP management agent for FIM/MIM
 
 https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-connector-genericldap
+
+### Microsoft Connectors for Microsoft Identity Manager 2016 and Forefront Identity Manager 2010R2
+Microsoft provides a collective download for its connectors which includes the Microsoft Connectors mentioned above but also SAP, Lotus Notes and another PowerShell MA.
+
+https://www.microsoft.com/en-us/download/details.aspx?id=51495
