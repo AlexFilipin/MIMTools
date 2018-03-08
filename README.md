@@ -1,5 +1,5 @@
 # MIMTools
-A list of useful tools for Microsoft Identity Manager, the honor goes to the linked publishers of these tools. There are many Managenet Agents I can't list all of them, the focus here is on tools. Nevertheless, there is an area for Managenet Agents that the world should know about.
+A list of useful tools for Microsoft Identity Manager, the honor goes to the linked publishers of these tools. There are many managenet agents I can't list all of them, the focus here is on tools. Nevertheless, there is an area for generic managenet agents.
 
 ## Tools
 
@@ -59,3 +59,8 @@ https://docs.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-
 A generic SQL management agent for FIM/MIM
 
 https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-connector-genericsql
+
+### Generic LDAP Connector
+A generic LDAP management agent for FIM/MIM
+
+https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-connector-genericldap
