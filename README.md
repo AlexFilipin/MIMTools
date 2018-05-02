@@ -1,5 +1,5 @@
 # MIMTools
-A list of useful tools for Microsoft Identity Manager, the honor goes to the linked publishers of these tools. There are many managenet agents I can't list all of them, the focus here is on tools. Nevertheless, there is an area for generic managenet agents.
+A list of useful tools for Microsoft Identity Manager, the honor goes to the linked publishers of these tools. There are many managenet agents I can't list all of them, the focus here is on tools. Nevertheless, there is an area for generic management agents.
 
 ## Tools
 
