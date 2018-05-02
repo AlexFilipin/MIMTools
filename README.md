@@ -45,6 +45,11 @@ http://www.ingallsdesigns.com/downloads.html
 
 ## Management Agents
 
+### Microsoft Graph Connector
+The Microsoft Identity Manager management agent for Microsoft Graph enables additional integration scenarios for Azure AD Premium customers.
+
+https://docs.microsoft.com/en-us/microsoft-identity-manager/microsoft-identity-manager-2016-connector-graph
+
 ### psma
 Powershell Management Agent for FIM2010 and MIM2016 from Søren Granfeldt
 
@@ -69,3 +74,4 @@ https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory
 Microsoft provides a collective download for its connectors which includes the Microsoft Connectors mentioned above but also SAP, Lotus Notes and another PowerShell MA.
 
 https://www.microsoft.com/en-us/download/details.aspx?id=51495
+https://docs.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference (Select Connectors)
