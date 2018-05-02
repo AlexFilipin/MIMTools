@@ -52,33 +52,18 @@ ACMA for attribute creation: https://github.com/lithnet/acma
 
 ## Management Agents
 
-### Microsoft Graph Connector
-The Microsoft Identity Manager management agent for Microsoft Graph enables additional integration scenarios for Azure AD Premium customers.
-
-https://docs.microsoft.com/en-us/microsoft-identity-manager/microsoft-identity-manager-2016-connector-graph
-
 ### psma
 Powershell Management Agent for FIM2010 and MIM2016 from Søren Granfeldt
 
 https://github.com/sorengranfeldt/psma
 
-### Generic Web Service connector
-The Web Service connector integrates identities through Web Service operations with Microsoft Identity Manager (MIM) 2016 SP1
+### Microsoft Connectors for Microsoft Identity Manager 2016 (and Forefront Identity Manager 2010R2)
+Microsoft provides a collective download for its connectors which includes:
+1. Graph
+2. Generic LDAP
+3. Generic SQL
+4. Web Services
+5. PowerShell
 
-https://docs.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-ma-ws
-
-### Generic SQL Connector
-A generic SQL management agent for FIM/MIM
-
-https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-connector-genericsql
-
-### Generic LDAP Connector
-A generic LDAP management agent for FIM/MIM
-
-https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-connector-genericldap
-
-### Microsoft Connectors for Microsoft Identity Manager 2016 and Forefront Identity Manager 2010R2
-Microsoft provides a collective download for its connectors which includes the Microsoft Connectors mentioned above but also SAP, Lotus Notes and another PowerShell MA.
-
-https://www.microsoft.com/en-us/download/details.aspx?id=51495
 https://docs.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference (Select Connectors)
+https://www.microsoft.com/en-us/download/details.aspx?id=51495
