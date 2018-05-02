@@ -66,4 +66,5 @@ Microsoft provides a collective download for its connectors which includes:
 5. PowerShell
 
 https://docs.microsoft.com/en-us/microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference (Select Connectors)
+
 https://www.microsoft.com/en-us/download/details.aspx?id=51495
