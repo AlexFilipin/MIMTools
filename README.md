@@ -18,6 +18,11 @@ Sync Engine Exports to CSV and XML (e.g. Pending Export / Changes), great for re
 
 https://github.com/FIMTooler/csReporter
 
+### FIMDelta
+Helper utility to selectively apply changes between two MIM environments.
+
+https://github.com/pieceofsummer/FIMDelta
+
 ### miis-autosync
 Sync Engine Run Cycle Software (Based on cycles or events)
 
